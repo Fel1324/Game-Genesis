@@ -1,2 +1,2 @@
-# Game-G-nesis
+# Game-Gnesis
 clone do jogo Gênesis
